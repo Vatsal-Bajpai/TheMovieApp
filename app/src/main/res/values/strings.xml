@@ -3,6 +3,6 @@
     <string name="action_settings">Settings</string>
     <string name="sort_by_poplularity">Sort by poplularity</string>
     <string name="sort_by_rating">Sort by rating</string>
-    <string name="API_KEY">a9ac1e707e682e839d8f05dbcffed611</string>
+    <string name="API_KEY">INSERT_YOUR_API_KEY</string>
 
 </resources>
